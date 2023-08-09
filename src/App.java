@@ -34,4 +34,35 @@ public class App {
      * Konsep "Overloading dan Overriding"
      */
 
+    /*
+     * Variable HidDing : Dalam java terjadi ketika sebuah variable lokal di dalam
+     * suatu blok kode yang memiliki nama yang sama dengan variable
+     * instance(variable anggota), ketika hal ini terjadi, variable lokal akan
+     * menyembunyikan variable instance tidak dapat di akses secara langsung dalam
+     * blok kode tersebut
+     */
+
+    /*
+     * Package =>cara untuk mengorganisasi clas-class kedalam kelompok- kelompok
+     * terkait
+     * membantu untuh mencegah konflik nama classs dan memungkinkan pemisahan
+     * fungsionalitas yang berbeda
+     * Setiap class yang ada dalam java beradas di dalam 1 package, kecuali tidak di
+     * nyatakan sebaliknya
+     */
+
+    /*
+     * acess Modifier => Kemampuan membuat class. field, method, dan constructor
+     * ysng dapat di aksses dari mana saja
+     * 
+     * Acsess Level :
+     * public : Class, Pacakge, Subclass, World
+     * private : Class
+     * protected : class. package, subclass
+     * no modifier :classs, package
+     * 
+     * public classs : hanya bisa di buat 1 public class di 1 file java. dan nama
+     * class harus sama dengan nama file
+     * 
+     */
 }
